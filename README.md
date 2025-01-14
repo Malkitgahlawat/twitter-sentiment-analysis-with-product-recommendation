@@ -16,5 +16,5 @@ A Python project for analyzing the sentiment of tweets and providing recommendat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-sentiment-analysis.git
-   cd twitter-sentiment-analysis
+   git clone https://github.com/your-username/twitter-sentiment-analysis-with-product-recommendation.git
+
